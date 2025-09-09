@@ -15,4 +15,4 @@
 - A car racing game where you dodge incoming obstacles.  
 - The longer you survive, the higher your score!
 
-  ✨ Built with ❤️ by itsjiya.zz
+  
